@@ -1,0 +1,11 @@
+C:\Users\treznik\source\repos\DesignPatterns\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp2.1\ObserverPattern.deps.json
+C:\Users\treznik\source\repos\DesignPatterns\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp2.1\ObserverPattern.runtimeconfig.json
+C:\Users\treznik\source\repos\DesignPatterns\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp2.1\ObserverPattern.runtimeconfig.dev.json
+C:\Users\treznik\source\repos\DesignPatterns\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp2.1\ObserverPattern.dll
+C:\Users\treznik\source\repos\DesignPatterns\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp2.1\ObserverPattern.pdb
+C:\Users\treznik\source\repos\DesignPatterns\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp2.1\ObserverPattern.csprojAssemblyReference.cache
+C:\Users\treznik\source\repos\DesignPatterns\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp2.1\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\treznik\source\repos\DesignPatterns\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp2.1\ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\treznik\source\repos\DesignPatterns\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp2.1\ObserverPattern.AssemblyInfo.cs
+C:\Users\treznik\source\repos\DesignPatterns\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp2.1\ObserverPattern.dll
+C:\Users\treznik\source\repos\DesignPatterns\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp2.1\ObserverPattern.pdb
